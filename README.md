@@ -1,3 +1,46 @@
+
+
+
+# USSD + AI: Interactive Reproductive Health Assistant
+
+This project demonstrates a lightweight **USSD-based interactive application powered by AI**, designed to generate dynamic responses and guide conversations on **adolescent reproductive health issues**.
+
+The goal is to show how traditional USSD channels can be enhanced with the intelligence of modern Large Language Models (LLMs), enabling accessible, low-cost, high-impact digital health solutions.
+
+---
+
+## 🚀 Project Overview
+
+This repository contains a test implementation that explores:
+
+- How a **USSD application** can be connected to an **AI LLM**
+- Real-time **AI-generated responses** within USSD constraints
+- Guided conversation flows for sensitive topics
+- Potential integration of **RAG (Retrieval-Augmented Generation)** to ensure factual, controlled, and domain-specific responses
+
+Although this is an early prototype, it highlights a practical pathway for building impactful health-tech solutions without requiring smartphones, apps, or internet access.
+
+---
+
+## 🎯 Vision
+
+This experiment is part of my broader research ambition:  
+**bringing advanced technologies to underserved contexts using the simplest possible delivery channels.**
+
+High tech is not always necessary —  
+**but high impact always is.**
+
+---
+
+## 📦 Features (Current & Potential)
+
+- Basic USSD interaction flow  
+- Integration with an AI model for adaptive responses  
+- Extendable RAG architecture for domain-bounded conversations  
+- Suitable for reproductive health, education, and similar public-good applications  
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -6,10 +49,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## AI powered USSD Application
-
-Building a USSD interactive application powered by AI for generating reponses and directing conversation.
 
 ## About Laravel
 
